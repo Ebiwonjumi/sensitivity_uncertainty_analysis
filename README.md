@@ -1,2 +1,27 @@
-# sensitivity_uncertainty_analysis
-List of tools related to sensitivity analysis and uncertainty quantification.
+# Sensitivity and Uncertainty Analysis 
+A List of open source tools related to sensitivity analysis and uncertainty quantification.
+
+## Nuclear Data Processing
+* [NJOY](https://github.com/njoy)
+
+* [FRENDY](https://rpg.jaea.go.jp/main/en/program_frendy/)
+
+## Random Sampling of Nuclear Data
+* [SANDY](https://github.com/luca-fiorito-11/sandy)
+
+* [ASAPY](https://github.com/veeshy/ASAPy)
+
+## Nuclear Data Sensitivity Analysis
+* [NDaST](https://www.oecd-nea.org/jcms/pl_32450/nuclear-data-sensitivity-tool-ndast)
+
+* TOFFEE
+
+## Database of Benchmarks
+* [DICE](https://www.oecd-nea.org/jcms/pl_20293/database-for-icsbep-dice)
+
+## Optimization, Model Reduction, Probabilistic Risk Analysis
+* [DAKOTA](https://github.com/snl-dakota/dakota)
+
+* [RAVENS](https://github.com/idaholab/raven)
+
+* [UQLab](https://www.uqlab.com/)
