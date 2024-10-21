@@ -27,3 +27,5 @@ A List of open source tools related to sensitivity analysis and uncertainty quan
 * [RAVENS](https://github.com/idaholab/raven)
 
 * [UQLab](https://www.uqlab.com/)
+
+* [chaospy](https://github.com/jonathf/chaospy)
