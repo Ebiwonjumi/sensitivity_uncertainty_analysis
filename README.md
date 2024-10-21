@@ -21,6 +21,10 @@ A List of open source tools related to sensitivity analysis and uncertainty quan
   
 * [DICE](https://www.oecd-nea.org/jcms/pl_20293/database-for-icsbep-dice)
 
+* [JADE](https://jade-a-nuclear-data-libraries-vv-tool.readthedocs.io/en/latest/usage/benchmarks.html)
+
+* [openmc_fusion_benchmarks](https://github.com/eepeterson/openmc_fusion_benchmarks)
+
 ## Optimization, Model Reduction, Probabilistic Risk Analysis
 * [DAKOTA](https://github.com/snl-dakota/dakota)
 
